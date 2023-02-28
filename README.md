@@ -5,7 +5,7 @@ Estou aprendendo:
 - Tag's de lista (ul e li)
 - Tag Button
 - Atributo href e target
-- Hover.
+- Pseudo-class Hover.
 
 ## 🔗 Links
 
